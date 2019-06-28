@@ -1,4 +1,4 @@
-## Save in ~/.vimrc
+colorscheme murphy
 set number
 set cursorline
 set lazyredraw          " redraw only when we need to.
